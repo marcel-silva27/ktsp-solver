@@ -1,0 +1,12 @@
+# Instancias descargadas de Zenodo (no versionar)
+Instancias/0_instances/
+Instancias/1_time-expanded-networks/
+Instancias/*.tar
+
+# Resultados generados por el script
+results.jsonl
+
+# Python
+__pycache__/
+*.pyc
+.venv/
